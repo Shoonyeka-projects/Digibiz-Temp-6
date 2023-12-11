@@ -1,0 +1,85 @@
+
+{
+    "sectionHeading": {
+      "title": "YOUR CHOICE",
+      "subtitle": "We have the right package for you",
+
+      "title_meta": "11",
+      "subtitle_meta": "33"
+    },
+    "pricingOptions": [
+      {
+        "type": "Personal",
+        "description": "The standard version",
+        "price": "$19",
+        "features": [
+          "5 Downloads",
+          "2 Extensions",
+          "Tutorials",
+          "Forum Support",
+          "1 year free updates"
+        ],
+        "buyLink": "/buy-personal",
+
+        "type_meta": "8",
+        "description_meta": "20",
+        "price_meta": "3",
+        "features_meta": [
+          "11",
+          "12",
+          "9",
+          "13",
+          "19"
+        ]
+      },
+      {
+        "type": "Student",
+        "description": "Most popular choice",
+        "price": "$29",
+        "features": [
+          "15 Downloads",
+          "5 Extensions",
+          "Tutorials with Files",
+          "Forum Support",
+          "2 years free updates"
+        ],
+        "buyLink": "/buy-student",
+
+        "type_meta": "8",
+        "description_meta": "20",
+        "price_meta": "3",
+        "features_meta": [
+          "11",
+          "12",
+          "9",
+          "13",
+          "19"
+        ]
+      },
+      {
+        "type": "Business",
+        "description": "For the whole team",
+        "price": "$49",
+        "features": [
+          "Unlimited Downloads",
+          "Unlimited Extensions",
+          "HD Video Tutorials",
+          "Chat Support",
+          "Lifetime free updates"
+        ],
+        "buyLink": "/buy-business",
+
+        "type_meta": "8",
+        "description_meta": "20",
+        "price_meta": "3",
+        "features_meta": [
+          "19",
+          "20",
+          "18",
+          "12",
+          "21"
+        ]
+      }
+    ]
+  }
+  

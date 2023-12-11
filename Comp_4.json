@@ -1,0 +1,36 @@
+
+{
+    "testimonialsSection": {
+      "sectionHeading": {
+        "title": "FEEDBACK",
+        "subtitle": "What our customers are saying"
+      },
+      "testimonials": [
+        {
+          "imageSrc": "images/user-images/user-1.jpg",
+          "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+          "author": "John Doe - Happy Customer",
+
+          "quote_meta": "112",
+          "author_meta": "25"
+        },
+        {
+          "imageSrc": "images/user-images/user-2.jpg",
+          "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+          "author": "Roslyn Doe - Happy Customer",
+
+          "quote_meta": "112",
+          "author_meta": "27"
+        },
+        {
+          "imageSrc": "images/user-images/user-3.jpg",
+          "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+          "author": "Thomas Doe - Happy Customer",
+
+          "quote_meta": "112",
+          "author_meta": "27"
+        }
+      ]
+    }
+  }
+  

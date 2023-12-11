@@ -1,0 +1,41 @@
+
+{
+    "contentSection": {
+      "testimonial": {
+        "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "author": "John Doe, Happy Customer",
+
+        "quote_meta": "122",
+        "author_meta": "24"
+      },
+      "sectionHeading": {
+        "title": "BELIEVING",
+        "subtitle": "Focusing On What Matters Most",
+
+        "title_meta": "9",
+        "subtitle_meta": "29"
+      },
+      "sectionContent": [
+        {
+          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!",
+          "paragraph_meta": "148"
+        },
+        {
+          "paragraph": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+          "paragraph_meta": "215"
+        },
+        {
+          "paragraph": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet!",
+          "paragraph_meta": "219"
+        }
+      ],
+      "videoLink": {
+        "pathname": "/your-video-route",
+        "videoId": "UYJ5IjBRlW8",
+        "videoSite": "youtube"
+      },
+      "buttonText": "WATCH VIDEO",
+      "buttonText_meta": "11"
+    }
+  }
+  

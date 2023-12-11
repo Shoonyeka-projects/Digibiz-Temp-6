@@ -1,0 +1,48 @@
+
+{
+    "aboutSection": {
+      "title": "SUCCESS",
+      "subtitle": "How We Help You To Sell Your Product",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!",
+      "iconBlocks": [
+        {
+          "icon": "fa fa-html5 fa-2x",
+          "blockTitle": "HTML5 & CSS3",
+          "blockDescription": "107",
+        
+          "blockTitle_meta": "12",
+          "blockDescription_meta": "115"
+        },
+        {
+          "icon": "fa fa-bolt fa-2x",
+          "blockTitle": "11",
+          "blockDescription": "Cu vero ipsum vim, doctus facilisi sea in. Eam ex falli honestatis repudiandae, sit detracto mediocrem disputationi",
+
+          "blockTitle_meta": "16",
+          "blockDescription_meta": "115"
+        },
+        {
+          "icon": "fa fa-tablet fa-2x",
+          "blockTitle": "Fully Responsive",
+          "blockDescription": "Id porro tritani recusabo usu, eum intellegam consequuntur et. Fugit debet ea sit, an pro nemore vivendum",
+       
+          "blockTitle_meta": "16",
+          "blockDescription_meta": "148"
+       
+        },
+        {
+          "icon": "fa fa-rocket fa-2x",
+          "blockTitle": "Parallax Effect",
+          "blockDescription": "Id porro tritani recusabo usu, eum intellegam consequuntur et. Fugit debet ea sit, an pro nemore vivendum",
+
+          "blockTitle_meta": "15",
+          "blockDescription_meta": "148"
+        }
+      ],
+
+      "title_meta": "7",
+      "subtitle_meta": "36",
+      "description_meta": "148"
+    }
+  }
+  

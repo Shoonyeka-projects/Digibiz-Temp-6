@@ -1,0 +1,30 @@
+
+{
+    "clientsSection": {
+      "sectionHeading": {
+        "title": "TRUST",
+        "subtitle": "Companies who use our services",
+
+        "title_meta": "5",
+        "subtitle_meta": "30"
+      },
+      "companies": [
+        {
+          "route": "/company1-route",
+          "imageSrc": "images/company-images/company-logo1.png",
+          "overlayText": "Tree"
+        },
+        {
+          "route": "/company2-route",
+          "imageSrc": "images/company-images/company-logo2.png",
+          "overlayText": "Fingerprint"
+        },
+        {
+          "route": "/company3-route",
+          "imageSrc": "images/company-images/company-logo3.png",
+          "overlayText": "The Man"
+        }
+      ]
+    }
+  }
+  
